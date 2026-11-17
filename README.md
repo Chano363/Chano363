@@ -8,12 +8,11 @@
 
 | 项目 | 简介 | 技术栈 |
 |---|---|---|
-| [车载平衡滚球运动控制系统](https://github.com/Chano363/2026NUEDC) | 2026 全国大学生电子设计竞赛 H 题，视觉识别钢球 + 双 MCU 闭环平衡控制 | STM32、MSPM0、K230、UART、PID |
-| [自动寻迹瞄准装置](https://github.com/Chano363/2025NUEDC) | 2025 全国大学生电子设计竞赛 E 题，循迹小车 + 二维云台视觉瞄准 | MSPM0G3507、STM32G474、K230、I2C/UART |
-| [运动目标控制与自动追踪系统](https://github.com/Chano363/2023NUEDC) | 2023 全国大学生电子设计竞赛 E 题，红绿激光双系统独立控制与追踪 | MSPM0G3507、OpenMV、增量式 PID |
-| [MiraTouch](https://github.com/Chano363/Remote_debugger) | C++ 后端 + Web 前端的嵌入式设备远程调试管理平台 | C++、WebSocket、SSH 连接池 |
-| [多智能体列车群组协同控制](https://github.com/Chano363/MultiAgent) | MAPPO 实现万吨列车编队速度同步与车钩冲动抑制 | Python、PyTorch、Gym |
-| [动态手势识别系统](https://github.com/Chano363/GestureFlow) | YOLOv10 + SORT 的实时动态手势识别与课堂交互应用 | Python、YOLOv10、卡尔曼滤波 |
+| [NUEDC-2026H · 车载平衡滚球](https://github.com/Chano363/NUEDC-2026H) | 2026 全国大学生电子设计竞赛 H 题，视觉识别钢球 + 双 MCU 闭环平衡控制 | STM32、MSPM0、K230、UART、PID |
+| [NUEDC-2025E · 自动寻迹瞄准装置](https://github.com/Chano363/NUEDC-2025E) | 2025 全国大学生电子设计竞赛 E 题，循迹小车 + 二维云台视觉瞄准 | MSPM0G3507、STM32G474、K230、I2C/UART |
+| [NUEDC-2024H · 自动行驶小车](https://github.com/Chano363/NUEDC-2024H) | 2024 全国大学生电子设计竞赛 H 题，陀螺仪航向 PD + 三问状态机 | MSPM0G3507、ICM42688、灰度循迹、PID |
+| [MiraTouch · 远程调试平台](https://github.com/Chano363/MiraTouch) | C++ 后端 + Web 前端的嵌入式设备远程调试管理平台 | C++、WebSocket、SSH 连接池 |
+| [MultiAgent · 列车群组协同控制](https://github.com/Chano363/MultiAgent) | MAPPO 实现万吨列车编队速度同步与车钩冲动抑制 | Python、PyTorch、Gym |
 
 ## 其他
 
